@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Hüseyin Emre Banner">
-
 # 🚀 Hüseyin Emre
 ### **ERP Solution Consultant | Software Developer | System Architect**
 *"Bridging the gap between complex business processes and elegant digital solutions."*

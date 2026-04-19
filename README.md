@@ -30,6 +30,13 @@ graph LR
 
 ---
 
+### 🌱 Current Focus
+- 🔭 **Working on:** Advanced custom ERP modules and real-time field data synchronization.
+- 📚 **Learning/Exploring:** Domain-Driven Design (DDD), Clean Architecture, and performance optimization in Blazor.
+- 🤝 **Looking to collaborate on:** Open-source .NET tools and business process automation solutions.
+
+---
+
 ### 🛠️ Core Technology Stack
 
 | 💻 Development | 🗄️ Architecture & DB | ⚙️ ERP & Operations |
@@ -47,6 +54,8 @@ graph LR
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuseyinEmreTech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseyinEmreTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuseyinEmreTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
@@ -69,6 +78,14 @@ graph LR
 - **İskenderun Technical University**: Bachelor's in Management Information Systems
 - **Osmaniye Korkut Ata University**: Associate Degree in Computer Programming
 </details>
+
+---
+
+### 📫 Let's Connect
+
+- 💬 **Ask me about:** `.NET`, `Blazor`, `ERP Integrations`, or `Business Process Optimization`.
+- 📧 **Reach out:** [huseyinemre.tech@gmail.com](mailto:huseyinemre.tech@gmail.com)
+- ☕ **Let's discuss:** How we can bridge the gap between complex requirements and elegant software.
 
 ---
 

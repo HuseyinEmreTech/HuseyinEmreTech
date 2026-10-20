@@ -1,8 +1,10 @@
 <div align="center">
 
-#  Hüseyin Emre
-### **Full-Stack Geliştirici | Donanım Entegrasyon Sorumlusu**
-*"Karmaşık iş süreçleri ile zarif dijital çözümler arasında köprü kuruyorum."*
+# Hüseyin Emre
+
+### **Yapay Zeka Destekli Full-Stack Geliştirici | Donanım Entegrasyon Sorumlusu**
+
+*"Önce insanı anlarım, sonra sistemi kurarım."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyinemretech/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseyinemre.tech@gmail.com)
@@ -12,43 +14,50 @@
 
 ---
 
-### 🏛️ "Değer Köprüsü"
+### Hakkımda
 
-Teknoloji benim için ofiste başlayıp sahada, müşterinin yanında anlam kazanan bir süreç. Kod yazmakla kalmıyor; iş akışını optimize eden sistemler tasarlıyorum.
+Sahada çalışan bir geliştiriciyim. Bir sorunun teknik tarafını çözmek kadar, sorunu yaşayan kişiyi anlamanın da işin parçası olduğunu düşünüyorum.
 
-```mermaid
-graph LR
-    A[Saha Gereksinimleri] --> B{Süreç Analizi}
-    B --> C[Sistem Mimarisi]
-    C --> D[.NET / Blazor Geliştirme]
-    D --> E[Donanım Entegrasyonu]
-    E --> F[Canlıya Alma & Eğitim]
-    F -.-> A
-    style B fill:#1a237e,color:#fff
-    style D fill:#1a237e,color:#fff
-    style E fill:#1a237e,color:#fff
-```
-
-> **Yaklaşım**: Anla ➡️ Tasarla ➡️ Geliştir ➡️ Sahada Çalıştır ➡️ Destekle
+- **İnsanı anlarım.** Kullanıcının ne söylediğiyle neye ihtiyaç duyduğu her zaman aynı şey değil. İkisini ayırt etmek benim işim.
+- **Hızlı teşhis ederim.** Kasa durmuşsa, fiş yazıcı çalışmıyorsa ya da satışlar bekliyorsa önce kök nedeni bulurum; doğru soru, doğru çözümün yarısıdır.
+- **Yapay zeka ile hızlı üretirim.** Modern araçları (LLM'ler, kod asistanları, otomasyon) iş akışımın merkezine koydum. Bu sayede küçük ekiplerle büyük işler çıkarıyorum.
+- **Anlatırım.** Kurduğum sistemi kullanacak kişiye eğitim vermeden işi bitmiş saymam. Anlaşılmayan sistem, kullanılmayan sistemdir.
 
 ---
 
-### 💼 Deneyim
+### Çalışma Biçimim
 
-**🧩 Uygulama Geliştirici** · MetaThings Bilgi Teknolojileri — *Haz 2026 – Devam · Yarı zamanlı · Hibrit*
+```mermaid
+graph LR
+    A[Dinle] --> B[Anla]
+    B --> C[Hızlı Çöz]
+    C --> D[Eğit]
+    D --> E[Destekle]
+    E -.-> A
+    style B fill:#1a237e,color:#fff
+    style C fill:#1a237e,color:#fff
+```
+
+Dinle, anla, hızlı çöz, anlat, yanında kal.
+
+---
+
+### Deneyim
+
+**Uygulama Geliştirici** · MetaThings Bilgi Teknolojileri — *Haz 2026 – Devam · Yarı zamanlı · Hibrit*
 Uygulama mimarisi, proje geliştirme ve teknik destek.
 
-**🥽 Proje Geliştirme / Yazılım Geliştirme** · İskenderun Teknik Üniversitesi XR LAB — *Nis 2025 – Devam · Hibrit*
+**Proje Geliştirme / Yazılım Geliştirme** · İskenderun Teknik Üniversitesi XR LAB — *Nis 2025 – Devam · Hibrit*
 XR odaklı projelerde yazılım geliştirme.
 
-**🏢 ERP Functional & Technical Consultant** · Hisar Yazılım ve Barkodlu Satış Sistemleri — *Haz 2025 – Haz 2026 · Hibrit*
-ERP kurulumu, özelleştirme, kullanıcı eğitimi ve Blazor ile süreç dijitalleştirme.
+**ERP Functional & Technical Consultant** · Hisar Yazılım ve Barkodlu Satış Sistemleri — *Haz 2025 – Haz 2026 · Hibrit*
+ERP kurulumu, özelleştirme, saha donanımı entegrasyonu (barkod okuyucu, fiş yazıcı) ve son kullanıcı eğitimi.
 
-**🖥️ IT Altyapı ve Sistem Destek Stajyeri** · Osmaniye Belediyesi — *Haz 2023*
-Sunucu/ağ yönetimi, yedekleme operasyonları, uçtan uca teknik destek.
+**IT Altyapı ve Sistem Destek Stajyeri** · Osmaniye Belediyesi — *Haz 2023*
+Sunucu ve ağ yönetimi, yedekleme operasyonları, uçtan uca teknik destek.
 
 <details>
-<summary><b>🎓 Eğitim</b></summary>
+<summary><b>Eğitim</b></summary>
 <br>
 
 - **İskenderun Teknik Üniversitesi** — Yönetim Bilişim Sistemleri (Lisans) · *Eki 2024 – Haz 2027* · **GPA: 3.57**
@@ -57,7 +66,7 @@ Sunucu/ağ yönetimi, yedekleme operasyonları, uçtan uca teknik destek.
 </details>
 
 <details>
-<summary><b>📜 Sertifikalar</b></summary>
+<summary><b>Sertifikalar</b></summary>
 <br>
 
 - **Yapay Zeka ile Üretkenlik Akademisi** — Coderspace · *Mar 2026*
@@ -67,50 +76,40 @@ Sunucu/ağ yönetimi, yedekleme operasyonları, uçtan uca teknik destek.
 
 ---
 
-### 🛠️ Teknoloji Yığını
+### Kullandığım Araçlar
 
-| 💻 Geliştirme | 🗄️ Mimari & Veri | ⚙️ ERP & Saha |
+| Geliştirme | Veri | İş & Saha |
 | :--- | :--- | :--- |
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![ERP](https://img.shields.io/badge/ERP-Danışmanlık-blue?style=flat-square) |
-| ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Donanım](https://img.shields.io/badge/Donanım-Entegrasyon-orange?style=flat-square) |
-| ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Süreç](https://img.shields.io/badge/Süreç-Optimizasyon-green?style=flat-square) |
+| Python | PostgreSQL | ERP kurulum ve özelleştirme |
+| Dart / Flutter | SQL | Süreç analizi |
+| JavaScript | Git | Donanım entegrasyonu |
+| LLM API'leri ve kod asistanları | Cloudflare | Kullanıcı eğitimi |
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+### Projeler
 
-| Proje | Ne yapıyor | Stack |
+| Proje | Ne yapıyor | Teknoloji |
 | :--- | :--- | :--- |
-| **Büyük Konsey (LLM Council)** | Çoklu LLM'i aynı masaya oturtan 3 aşamalı konsey: bağımsız yanıt → anonim eleştiri/puanlama → başkan sentezi | Python, React |
-| **[huseyinemre.tech](https://huseyinemre.tech)** | Portfolyo + güvenlik sertleştirme: Mozilla Observatory **A+ (120/100)**, HSTS Preload listesi, CSP, SRI, Cloudflare | Web |
+| **Kampüs Bildirim Sistemi** | Öğrencinin kampüsteki sorunu fotoğraf ve konumla bildirdiği, görevlinin üstlenip sonuç fotoğrafıyla kapattığı akış. Yapay Zeka Destekli Yazılım Geliştirme dersi ekip projesi. | Flutter, Dart (Shelf), PostgreSQL |
+| **Büyük Konsey (LLM Council)** | Birden fazla modelin bağımsız yanıt verdiği, birbirini anonim puanladığı ve bir başkan modelin sentezlediği üç aşamalı karar sistemi. | Python, React |
+| **huseyinemre.tech** | Portfolyo sitesi. Mozilla Observatory A+ (120/100), HSTS Preload listesi, CSP ve SRI ile sertleştirildi. | Vanilla JS, Vite, Cloudflare Workers |
 
 ---
 
-### 🌱 Şu An
+### Şu An
 
-- 🔭 **Üzerinde çalışıyorum:** Özel ERP modülleri ve saha verisinin gerçek zamanlı senkronizasyonu
-- 📚 **Öğreniyorum:** DDD, Clean Architecture, Blazor performans optimizasyonu
-- 🤝 **Birlikte çalışmak istiyorum:** Açık kaynak .NET araçları ve iş süreci otomasyonu
-
----
-
-### 📊 İstatistikler
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuseyinEmreTech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseyinEmreTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
+- Özel ERP modülleri ve saha verisinin gerçek zamanlı senkronizasyonu üzerinde çalışıyorum.
+- Yapay zeka destekli geliştirme akışlarını kendi iş süreçlerime uyarlıyorum.
+- Açık kaynak iş süreci otomasyonu araçlarına katkı arıyorum.
 
 ---
 
-### 📫 İletişim
+### İletişim
 
-- 💬 **Sor bana:** `.NET`, `Blazor`, `ERP entegrasyonları`, `donanım entegrasyonu`
-- 📧 **Ulaş:** [huseyinemre.tech@gmail.com](mailto:huseyinemre.tech@gmail.com)
-- 🌐 **Portfolyo:** [huseyinemre.tech](https://huseyinemre.tech)
+- **Sor bana:** yapay zeka destekli geliştirme, ERP süreçleri, donanım entegrasyonu, kullanıcı eğitimi
+- **E-posta:** [huseyinemre.tech@gmail.com](mailto:huseyinemre.tech@gmail.com)
+- **Portfolyo:** [huseyinemre.tech](https://huseyinemre.tech)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%"/>

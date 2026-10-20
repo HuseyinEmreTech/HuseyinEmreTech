@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 Hüseyin Emre
-### **ERP Çözüm Uzmanı | Full-Stack Geliştirici | Donanım Entegrasyon Sorumlusu**
+#  Hüseyin Emre
+### **Full-Stack Geliştirici | Donanım Entegrasyon Sorumlusu**
 *"Karmaşık iş süreçleri ile zarif dijital çözümler arasında köprü kuruyorum."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyinemretech/)

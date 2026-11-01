@@ -76,27 +76,6 @@ Sunucu ve ağ yönetimi, yedekleme operasyonları, uçtan uca teknik destek.
 
 ---
 
-### Kullandığım Araçlar
-
-| Geliştirme | Veri | İş & Saha |
-| :--- | :--- | :--- |
-| Python | PostgreSQL | ERP kurulum ve özelleştirme |
-| Dart / Flutter | SQL | Süreç analizi |
-| JavaScript | Git | Donanım entegrasyonu |
-| LLM API'leri ve kod asistanları | Cloudflare | Kullanıcı eğitimi |
-
----
-
-### Projeler
-
-| Proje | Ne yapıyor | Teknoloji |
-| :--- | :--- | :--- |
-| **Kampüs Bildirim Sistemi** | Öğrencinin kampüsteki sorunu fotoğraf ve konumla bildirdiği, görevlinin üstlenip sonuç fotoğrafıyla kapattığı akış. Yapay Zeka Destekli Yazılım Geliştirme dersi ekip projesi. | Flutter, Dart (Shelf), PostgreSQL |
-| **Büyük Konsey (LLM Council)** | Birden fazla modelin bağımsız yanıt verdiği, birbirini anonim puanladığı ve bir başkan modelin sentezlediği üç aşamalı karar sistemi. | Python, React |
-| **huseyinemre.tech** | Portfolyo sitesi. Mozilla Observatory A+ (120/100), HSTS Preload listesi, CSP ve SRI ile sertleştirildi. | Vanilla JS, Vite, Cloudflare Workers |
-
----
-
 ### İletişim
 
 - **Sor bana:** yapay zeka destekli geliştirme, ERP süreçleri, donanım entegrasyonu, kullanıcı eğitimi

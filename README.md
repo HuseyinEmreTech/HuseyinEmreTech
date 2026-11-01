@@ -97,14 +97,6 @@ Sunucu ve ağ yönetimi, yedekleme operasyonları, uçtan uca teknik destek.
 
 ---
 
-### Şu An
-
-- Özel ERP modülleri ve saha verisinin gerçek zamanlı senkronizasyonu üzerinde çalışıyorum.
-- Yapay zeka destekli geliştirme akışlarını kendi iş süreçlerime uyarlıyorum.
-- Açık kaynak iş süreci otomasyonu araçlarına katkı arıyorum.
-
----
-
 ### İletişim
 
 - **Sor bana:** yapay zeka destekli geliştirme, ERP süreçleri, donanım entegrasyonu, kullanıcı eğitimi
